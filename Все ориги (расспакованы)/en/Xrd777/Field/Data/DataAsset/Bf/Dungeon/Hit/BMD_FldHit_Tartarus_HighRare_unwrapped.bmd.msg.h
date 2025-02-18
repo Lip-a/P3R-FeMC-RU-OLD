@@ -1,0 +1,20 @@
+// Decompiled by Atlus Script Tools (2017-2021) © TGE
+const int MSG_HIGHRARE_DEFEAT_MITU         = 0;
+const int MSG_HIGHRARE_DEFEAT_FUKA         = 1;
+const int MSG_HIGHRARE_ESCAPE_MITU         = 2;
+const int MSG_HIGHRARE_ESCAPE_MITU_2       = 3;
+const int MSG_HIGHRARE_ESCAPE_FUKA         = 4;
+const int MSG_HIGHRARE_ESCAPE_FUKA_2       = 5;
+const int MSG_HIGHRARE_STEAL_MITU_         = 6;
+const int MSG_HIGHRARE_STEAL_FUKA_         = 7;
+const int SEL_HIGHRARE_STEAL_00            = 8;
+const int MSG_HIGHRARE_STEAL_MITU__2       = 9;
+const int MSG_HIGHRARE_STEAL_FUKA__2       = 10;
+const int SYS_HIGHRARE_STEAL_00            = 11;
+const int MSG_HIGHRARE_STEAL_MITU__3       = 12;
+const int MSG_HIGHRARE_STEAL_FUKA__3       = 13;
+const int MSG_HIGHRARE_BLOCK_MITU_         = 14;
+const int MSG_HIGHRARE_BLOCK_MITU__2       = 15;
+const int MSG_HIGHRARE_BLOCK_FUKA_         = 16;
+const int MSG_HIGHRARE_BLOCK_FUKA__2       = 17;
+const int SEL_HIGHRARE_BLOCK               = 18;

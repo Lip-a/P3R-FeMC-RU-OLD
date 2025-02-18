@@ -1,0 +1,23 @@
+// Decompiled by Atlus Script Tools (2017-2021) © TGE
+const int MND_CARD_INFO_01                 = 0;
+const int MND_CARD_INFO_02                 = 1;
+const int MND_CARD_INFO_03                 = 2;
+const int PFM_CARD_INFO_PRIESTESS          = 3;
+const int PFM_CARD_INFO_EMPRESS_EM         = 4;
+const int PFM_CARD_INFO_HIERO_LOVE         = 5;
+const int PFM_CARD_INFO_CHARI_JUST         = 6;
+const int PFM_CARD_INFO_HERMIT             = 7;
+const int PFM_CARD_INFO_FORT_STREN         = 8;
+const int PFM_CARD_INFO_HANGEDMAN          = 9;
+const int PFM_CARD_INFO_VARIOUS            = 10;
+const int SYS_DETAIL_PRIESTESS             = 11;
+const int SYS_DETAIL_EMPRESS               = 12;
+const int SYS_DETAIL_EMPEROR               = 13;
+const int SYS_DETAIL_HIEROPHAN             = 14;
+const int SYS_DETAIL_LOVERS                = 15;
+const int SYS_DETAIL_CHARIOT               = 16;
+const int SYS_DETAIL_JUSTICE               = 17;
+const int SYS_DETAIL_HERMIT                = 18;
+const int SYS_DETAIL_FORTUNE               = 19;
+const int SYS_DETAIL_STRENGTH              = 20;
+const int SYS_DETAIL_HANGEDMAN             = 21;

@@ -1,0 +1,19 @@
+// Decompiled by Atlus Script Tools (2017-2021) © TGE
+const int MSG_718_1_1                      = 0;
+const int MSG_718_1_2                      = 1;
+const int MSG_718_1_3                      = 2;
+const int MSG_718_2_1                      = 3;
+const int MSG_718_3_1                      = 4;
+const int MSG_718_3_2                      = 5;
+const int SEL_718_3_3                      = 6;
+const int MSG_718_3_4                      = 7;
+const int MSG_718_3_5                      = 8;
+const int MSG_718_3_6                      = 9;
+const int MSG_718_4_1                      = 10;
+const int MSG_718_4_2                      = 11;
+const int MSG_718_4_4                      = 12;
+const int MSG_718_4_3                      = 13;
+const int MSG_718_5_1                      = 14;
+const int MSG_718_6_1                      = 15;
+const int MSG_718_7_1                      = 16;
+const int MSG_718_7_2                      = 17;

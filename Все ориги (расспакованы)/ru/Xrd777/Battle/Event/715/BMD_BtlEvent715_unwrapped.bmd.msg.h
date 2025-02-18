@@ -1,0 +1,19 @@
+// Decompiled by Atlus Script Tools (2017-2021) © TGE
+const int MSG_715_1_1                      = 0;
+const int MSG_715_2_1                      = 1;
+const int MSG_715_3_1                      = 2;
+const int MSG_715_4_1                      = 3;
+const int MSG_715_5_1                      = 4;
+const int MSG_715_6_1                      = 5;
+const int MSG_715_7_1                      = 6;
+const int MSG_715_8_1                      = 7;
+const int MSG_715_9_1                      = 8;
+const int MSG_715_10_1                     = 9;
+const int MSG_715_11_1                     = 10;
+const int MSG_715_12_1                     = 11;
+const int MSG_715_13_1                     = 12;
+const int MSG_715_13_2                     = 13;
+const int MSG_715_14_1                     = 14;
+const int MSG_715_14_2                     = 15;
+const int MSG_715_15_1                     = 16;
+const int MSG_715_15_2                     = 17;

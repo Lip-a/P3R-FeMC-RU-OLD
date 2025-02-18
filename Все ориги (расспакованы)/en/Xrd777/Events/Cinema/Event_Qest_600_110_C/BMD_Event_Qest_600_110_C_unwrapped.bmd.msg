@@ -1,0 +1,6 @@
+[msg MSG_000_0_0 [Protagonist]]
+[uf 0 5 65278][uf 2 1][uf 3 1 1 0 0 1 0 0]Ngh![n][uf 1 1][e]
+
+[msg MSG_001_0_0 [Protagonist]]
+[uf 0 5 65278][uf 2 1][uf 3 1 1 0 0 2 0 0]Ngh...[n][uf 1 1][e]
+

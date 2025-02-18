@@ -1,0 +1,193 @@
+[msg MND_000_0_0]
+[uf 0 5 65278][uf 2 1]The used bookstore, Bookworms...[n][uf 1 1][e]
+
+[msg MND_001_0_0]
+[uf 0 5 65278][uf 2 1]The store is closed today...[n][uf 1 1][e]
+
+[msg MND_002_0_0]
+[uf 0 5 65278][uf 2 1]The inside of the store is quiet...[n][uf 1 1][e]
+
+[msg MND_003_0_0]
+[uf 0 5 65278][uf 2 1]The old man inside the store[n]seems to be doing well...[n][uf 1 1][e]
+[uf 0 5 65278][uf 2 1]I'm glad I was able to rescue him.[n][uf 1 1][e]
+
+[msg MND_004_0_0]
+[uf 0 5 65278][uf 2 1]An old man is chatting energetically[n]with an old woman inside the store.[n][uf 1 1][e]
+[uf 0 5 65278][uf 2 1]It seems this old man was the[n]one I rescued from Tartarus...[n][uf 1 1][e]
+[uf 0 5 65278][uf 2 1]I'm glad I was able to rescue him.[n][uf 1 1][e]
+
+[msg MND_005_0_0]
+[uf 0 5 65278][uf 2 1]The store is closed today...[n][uf 1 1][e]
+
+[msg MND_005_5_0]
+[uf 0 5 65278][uf 2 1]Looks like it's after store hours...[n][uf 1 1][e]
+
+[msg MND_006_0_0]
+[uf 0 5 65278][uf 2 1]I'll spend some time after[n]school at the bookstore.[n][uf 1 1][e]
+
+[msg MND_007_0_0]
+[uf 0 5 65278][uf 2 1]I'll spend some time this[n]afternoon at the bookstore.[n][uf 1 1][e]
+
+[msg MND_008_0_0]
+[uf 0 5 65278][uf 2 1]The sign says, "Closed for termite[n]extermination. We will reopen on 4/25."[n][uf 1 1][e]
+
+[msg MND_009_0_0]
+[uf 0 5 65278][uf 2 1]Should I enter the store...?[n][uf 1 1][e]
+
+[sel SEL_010_0_0 top]
+[uf 0 5 65278][uf 2 1]Enter[e]
+[uf 0 5 65278][uf 2 1]Don't enter[e]
+
+[msg MND_011_0_0]
+[uf 0 5 65278][uf 2 1]The old couple mentioned a [uf 0 1 2]persimmon[n]tree[uf 0 1 27] at Gekkoukan High School.[n][uf 1 1][e]
+[uf 0 5 65278][uf 2 1]Maybe I should go look for the[n][uf 0 1 2]persimmon tree[uf 0 1 27] at school...[n][uf 1 1][e]
+
+[msg MND_012_0_0]
+[uf 0 5 65278][uf 2 1]Since I have a [uf 4 4 1 37 1 0],[n]I might have more to talk about[n]with the elderly couple.[n][uf 1 1][e]
+[uf 0 5 65278][uf 2 1]Should I show them the[n][uf 4 4 1 37 1 0]?[n][uf 1 1][e]
+
+[sel SEL_013_0_0 top]
+[uf 0 5 65278][uf 2 1]Show them[e]
+[uf 0 5 65278][uf 2 1]Not now[e]
+
+[msg MND_GENERAL_EVENTPLAY]
+[uf 0 5 65278][uf 2 1]Message issued by the script. [n][uf 1 5 0]Comm Event Replay.[n][uf 1 1][e]
+
+[msg MND_GENERAL_PERSPNA]
+[uf 0 5 65278][uf 2 1]I feel as if we can grow closer thanks to the[n][uf 2 4 2] Persona, [uf 0 1 35][uf 2 4 5][uf 0 1 27]...[n][uf 1 1][e]
+
+[msg MND_GENERALSELECTMSG_MAX]
+[uf 0 5 65278][uf 2 1]I feel an unbreakable bond[n]with [uf 2 4 0]...[n][uf 1 1][e]
+
+[msg MND_GENERALMSG_BS_MAX]
+[uf 0 5 65278][uf 2 1]I feel an unbreakable bond[n]with the elderly couple...[n][uf 1 1][e]
+
+[msg MND_GENERALSELECTMSG_RAN]
+[uf 0 5 65278][uf 2 1]I feel like I might grow closer[n]to [uf 2 4 0] soon...[n][uf 1 1][e]
+
+[msg MND_GENERALMSG_BS_RANKUP]
+[uf 0 5 65278][uf 2 1]I feel like I might grow closer[n]to the elderly couple soon...[n][uf 1 1][e]
+
+[msg MND_GENERALSELECTMSG_NOR]
+[uf 0 5 65278][uf 2 1]I don't think our bond will grow[n]any stronger even if I spend[n]more time with [uf 2 4 0]...[n][uf 1 1][e]
+
+[msg MND_GENERALMSG_BS_NORMAL]
+[uf 0 5 65278][uf 2 1]I don't think our bond will grow[n]any stronger even if I spend[n]more time with them...[n][uf 1 1][e]
+
+[msg MND_GENERALSELECTMSG_MAX_2]
+[uf 0 5 65278][uf 2 1]It doesn't seem that our relationship[n]can get any closer than it is...[n][uf 1 1][e]
+[uf 0 5 65278][uf 2 1]Should I still spend time with them...?[n][uf 1 1][e]
+
+[msg MND_GENERAL_MSG_SOLO_AS]
+[uf 0 5 65278][uf 2 1]Should I spend some time after[n]school with [uf 2 4 0]?[n][uf 1 1][e]
+
+[msg MND_GENERAL_MSG_SOLO_DT]
+[uf 0 5 65278][uf 2 1]Should I spend the day[n]with [uf 2 4 0]?[n][uf 1 1][e]
+
+[msg MND__GENERAL_MSG_NET]
+[uf 0 5 65278][uf 2 1]Should I spend time online playing[n]the MMORPG with [uf 2 4 0]...?[n][uf 1 1][e]
+
+[msg MND_GENERAL_MSG_SOLO_NT]
+[uf 0 5 65278][uf 2 1]Should I spend the evening[n]with [uf 2 4 0]?[n][uf 1 1][e]
+
+[sel SEL_GENERALSELECTMSG_SOL top]
+[uf 0 5 65278][uf 2 1]Spend time with [uf 2 4 0][e]
+[uf 0 5 65278][uf 2 1]Check Social Link status[e]
+[uf 0 5 65278][uf 2 1]Never mind[e]
+
+[msg MND_GENERAL_MSG_MULTIPLE]
+[uf 0 5 65278][uf 2 1]Should I spend some time after[n]school with the [uf 2 4 1]?[n][uf 1 1][e]
+
+[msg MND_GENERAL_MSG_FASHION_]
+[uf 0 5 65278][uf 2 1]Should I spend some time after[n]school at the fashion club?[n][uf 1 1][e]
+
+[msg MND_GENERAL_MSG_BOOKSTOR]
+[uf 0 5 65278][uf 2 1]Should I spend the day at the bookstore?[n][uf 1 1][e]
+
+[msg MND_GENERAL_MSG_BOOKSTOR_2]
+[uf 0 5 65278][uf 2 1]Should I spend some time[n]after school at the bookstore?[n][uf 1 1][e]
+
+[msg MND_GENERAL_MSG_MULTIPLE_2]
+[uf 0 5 65278][uf 2 1]Should I spend the night[n]with [uf 2 4 1]?[n][uf 1 1][e]
+
+[sel SEL_GENERALSELECTMSG_MUL top]
+[uf 0 5 65278][uf 2 1]Spend time w/ [uf 2 4 1][e]
+[uf 0 5 65278][uf 2 1]Check Social Link status[e]
+[uf 0 5 65278][uf 2 1]Never mind[e]
+
+[sel SEL_GENERALSELECTMSG_FCL top]
+[uf 0 5 65278][uf 2 1]Go to the fashion club[e]
+[uf 0 5 65278][uf 2 1]Check Social Link status[e]
+[uf 0 5 65278][uf 2 1]Never mind[e]
+
+[sel SEL_GENERALSELECTMSG_BS top]
+[uf 0 5 65278][uf 2 1]Enter the bookstore[e]
+[uf 0 5 65278][uf 2 1]Check Social Link status[e]
+[uf 0 5 65278][uf 2 1]Never mind[e]
+
+[msg MSG_GENERAL_EXAMREWARD_0 [Mitsuru Kirijo]]
+[uf 0 5 65278][uf 2 1][uf 4 5 5 0 65535 65535 0 0][uf 3 1 3 0 65535 4029 0 0]Ah, [uf 4 1].[n][uf 1 1][e]
+[uf 0 5 65278][uf 2 1][uf 4 5 5 0 65535 65535 0 0]I saw your exam results. Good work.[n][uf 1 1][e]
+[uf 0 5 65278][uf 2 1][uf 4 5 5 0 65535 65535 0 0]Here, this is from the chairman.[n][uf 1 1][e]
+[uf 0 5 65278][uf 2 1][uf 4 5 5 1 65535 65535 0 0][uf 3 1 3 0 65535 4108 0 0]It's a reward for effectively balancing schoolwork as well as our... ahem, "extracurricular activities."[n][uf 1 1][e]
+
+[msg MND_GENERAL_EXAMREWARD_0]
+[uf 0 5 65278][uf 2 1]DEV: UNUSED LABEL[n][uf 1 1][e]
+
+[msg MND_GENERAL_EXAMREWARD_0_2]
+[uf 0 5 65278][uf 2 1]Since I placed at the top in the exams,[n]I also got this [uf 4 4 1 37 1 3].[n][uf 1 1][e]
+
+[msg MSG_GENERAL_EXAMREWARD_0_2 [Mitsuru Kirijo]]
+[uf 0 5 65278][uf 2 1][uf 4 5 5 0 65535 65535 0 0][uf 3 1 3 0 65535 4029 0 0]Ah, [uf 4 1].[n][uf 1 1][e]
+[uf 0 5 65278][uf 2 1][uf 4 5 5 0 65535 65535 0 0]I saw your exam results. Good work.[n][uf 1 1][e]
+[uf 0 5 65278][uf 2 1][uf 4 5 5 0 65535 65535 0 0]Here, this is from the chairman.[n][uf 1 1][e]
+[uf 0 5 65278][uf 2 1][uf 4 5 5 1 65535 65535 0 0][uf 3 1 3 0 65535 4108 0 0]It's a reward for effectively balancing schoolwork as well as our... ahem, "extracurricular activities."[n][uf 1 1][e]
+
+[msg MSG_GENERAL_EXAMREWARD_0_3 [Mitsuru Kirijo]]
+[uf 0 5 65278][uf 2 1][uf 4 5 5 0 65535 65535 0 0][uf 3 1 3 0 65535 4077 0 0]Oh, right. There's something else...[n][uf 1 1][e]
+[uf 0 5 65278][uf 2 1][uf 4 5 5 0 65535 65535 0 0]I saw your exam results. Good work.[n][uf 1 1][e]
+[uf 0 5 65278][uf 2 1][uf 4 5 5 0 65535 65535 0 0]Here, this is from the chairman.[n][uf 1 1][e]
+[uf 0 5 65278][uf 2 1][uf 4 5 5 1 65535 65535 0 0][uf 3 1 3 0 65535 4131 0 0]It's a reward for effectively balancing schoolwork as well as our... ahem, "extracurricular activities."[n][uf 1 1][e]
+
+[msg MND_GENERAL_EXAMREWARD_0_3]
+[uf 0 5 65278][uf 2 1]Since I placed at the top in the exams,[n]I also got this [uf 4 4 1 37 1 3].[n][uf 1 1][e]
+
+[msg MSG_GENERAL_EXAMREWARD_0_4 [Mitsuru Kirijo]]
+[uf 0 5 65278][uf 2 1][uf 4 5 5 0 65535 65535 0 0][uf 3 1 3 0 65535 4029 0 0]Ah, [uf 4 1].[n][uf 1 1][e]
+[uf 0 5 65278][uf 2 1][uf 4 5 5 0 65535 65535 0 0]I saw your exam results. Good work.[n][uf 1 1][e]
+[uf 0 5 65278][uf 2 1][uf 4 5 5 0 65535 65535 0 0]Here, this is from the chairman.[n][uf 1 1][e]
+[uf 0 5 65278][uf 2 1][uf 4 5 5 1 65535 65535 0 0][uf 3 1 3 0 65535 4108 0 0]It's a reward for effectively balancing schoolwork as well as our... ahem, "extracurricular activities."[n][uf 1 1][e]
+
+[msg MND_GENERAL_EXAMREWARD_0_4]
+[uf 0 5 65278][uf 2 1]DEV: UNUSED LABEL[n][uf 1 1][e]
+
+[msg MSG_GENERAL_EXAMREWARD_0_5 [Mitsuru Kirijo]]
+[uf 0 5 65278][uf 2 1][uf 4 5 5 0 65535 65535 0 0][uf 3 1 3 0 65535 4029 0 0]Ah, [uf 4 1].[n][uf 1 1][e]
+[uf 0 5 65278][uf 2 1][uf 4 5 5 0 65535 65535 0 0]I saw your exam results. Good work.[n][uf 1 1][e]
+[uf 0 5 65278][uf 2 1][uf 4 5 5 0 65535 65535 0 0]It's admirable how you continue to excel in school while fighting arduous battle after battle.[n][uf 1 1][e]
+[uf 0 5 65278][uf 2 1][uf 4 5 5 1 65535 65535 0 0]I got you a gift to acknowledge all your hard work. Here, take it.[n][uf 1 1][e]
+
+[msg MND_GENERAL_EXAMREWARD_0_5]
+[uf 0 5 65278][uf 2 1]未使用ラベルです。[n][uf 1 1][e]
+
+[msg MSG_GENERAL_EXAMREWARD_0_6 [Mitsuru Kirijo]]
+[uf 0 5 65278][uf 2 1][uf 4 5 5 0 6 65535 0 0][uf 3 1 3 0 65535 4029 0 0]Ah, [uf 4 1].[n][uf 1 1][e]
+[uf 0 5 65278][uf 2 1][uf 4 5 5 0 6 65535 0 0]I saw your exam results. Good work.[n][uf 1 1][e]
+[uf 0 5 65278][uf 2 1][uf 4 5 5 0 6 65535 0 0]It's admirable how you continue to excel in school while fighting arduous battle after battle.[n][uf 1 1][e]
+[uf 0 5 65278][uf 2 1][uf 4 5 5 0 6 65535 0 0]I got you a gift to acknowledge all your hard work. Here, take it.[n][uf 1 1][e]
+
+[msg MND_GENERAL_EXAMREWARD_1]
+[uf 0 5 65278][uf 2 1]Since I placed at the top in the exams,[n]I also got this [uf 4 4 1 37 1 3].[n][uf 1 1][e]
+
+[msg MSG_GENERAL_EXAMREWARD_1 [Mitsuru Kirijo]]
+[uf 0 5 65278][uf 2 1][uf 4 5 5 0 65535 65535 0 0][uf 3 1 3 0 65535 4029 0 0]Ah, [uf 4 1].[n][uf 1 1][e]
+[uf 0 5 65278][uf 2 1][uf 4 5 5 0 65535 65535 0 0]I saw your exam results. Good work.[n][uf 1 1][e]
+[uf 0 5 65278][uf 2 1][uf 4 5 5 0 65535 65535 0 0]It's admirable how you continue to excel in school while fighting arduous battle after battle.[n][uf 1 1][e]
+[uf 0 5 65278][uf 2 1][uf 4 5 5 1 65535 65535 0 0][uf 3 1 3 0 65535 4108 0 0]I got you a gift to acknowledge all your hard work. Here, take it.[n][uf 1 1][e]
+
+[msg MND_GENERAL_EXAMREWARD_1_2]
+[uf 0 5 65278][uf 2 1]DEV: UNUSED LABEL[n][uf 1 1][e]
+
+[msg MND_GENERAL_EXAMREWARD_1_3]
+[uf 0 5 65278][uf 2 1]Since I placed at the top in the exams,[n]I also got this [uf 4 4 1 37 1 3].[n][uf 1 1][e]
+

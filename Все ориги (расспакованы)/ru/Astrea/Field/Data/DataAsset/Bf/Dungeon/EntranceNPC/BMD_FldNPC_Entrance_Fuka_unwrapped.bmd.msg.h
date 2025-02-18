@@ -1,0 +1,25 @@
+// Decompiled by Atlus Script Tools (2017-2021) © TGE
+const int SEL_TALK                         = 0;
+const int SEL_BACK_UP_00                   = 1;
+const int SEL_PARTY                        = 2;
+const int SEL_DOOR                         = 3;
+const int SEL_BACK_UP_01                   = 4;
+const int MSG_FUKA_BACK_UP_00              = 5;
+const int MSG_FUKA_BACK_UP_RE_00           = 6;
+const int MSG_FUKA_ANALYSIS_00             = 7;
+const int MSG_FUKA_ANALYSIS_01             = 8;
+const int MSG_FUKA_ANALYSIS_02             = 9;
+const int MSG_FUKA_ANALYSIS_03             = 10;
+const int MSG_FUKA_ANALYSIS_04             = 11;
+const int MSG_FUKA_ANALYSIS_05             = 12;
+const int MSG_FUKA_ANALYSIS_06             = 13;
+const int MSG_FUKA_ANALYSIS_07             = 14;
+const int MSG_FUKA_ANALYSIS_START          = 15;
+const int MSG_FUKA_ANALYSIS_ADD_00         = 16;
+const int MSG_FUKA_ANALYSIS_ADD_01         = 17;
+const int MSG_FUKA_ANALYSIS_ADD_02         = 18;
+const int MSG_FUKA_ANALYSYS_END_01         = 19;
+const int MSG_FUKA_ANALYSYS_END_02         = 20;
+const int MSG_FUKA_ANALYSYS_END_03         = 21;
+const int MSG_FUKA_ANALYSYS_END_04         = 22;
+const int MSG_FUKA_FIELDATTACK_01          = 23;

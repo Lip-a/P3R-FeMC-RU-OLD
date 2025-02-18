@@ -1,0 +1,24 @@
+// Decompiled by Atlus Script Tools (2017-2021) © TGE
+const int SEL_TALK                         = 0;
+const int SEL_BACK_UP_00                   = 1;
+const int SEL_PARTY                        = 2;
+const int SEL_DOOR                         = 3;
+const int SEL_BACK_UP_01                   = 4;
+const int SEL_BACK_UP_02                   = 5;
+const int SEL_BACK_UP_03                   = 6;
+const int SEL_BACK_UP_04                   = 7;
+const int SEL_BACK_UP_05                   = 8;
+const int MSG_ARAGAKI_PARTY_IN_00          = 9;
+const int MSG_ARAGAKI_PARTY_IN_AFT         = 10;
+const int MSG_ARAGAKI_PARTY_OUT_00         = 11;
+const int MSG_ARAGAKI_PARTY_OUT_AF         = 12;
+const int MSG_ARAGAKI_PARTY_OVER           = 13;
+const int MSG_ARAGAKI_PARTY_CHANGE         = 14;
+const int MSG_ARAGAKI_PARTY_IN_01          = 15;
+const int MSG_ARAGAKI_PARTY_IN_AFT_2       = 16;
+const int MSG_ARAGAKI_PARTY_OUT_01         = 17;
+const int MSG_ARAGAKI_PARTY_OUT_AF_2       = 18;
+const int MSG_0903_0904_ARAGAKI_DU         = 19;
+const int MSG_0919_1003_ARAGAKI_DU         = 20;
+const int MSG_HANYOU1_ARAGAKI_DUNG         = 21;
+const int MSG_ARAGAKI_ZEKKOCHO             = 22;

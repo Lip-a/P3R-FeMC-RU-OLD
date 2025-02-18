@@ -1,0 +1,42 @@
+[msg MSG_000_0_0 [Koromaru]]
+[uf 0 5 65278][uf 2 1][uf 4 5 9 0 65535 65535 0 0][uf 3 1 3 0 65535 8008 0 0]Arf![n][uf 1 1][e]
+
+[msg MND_030_0_0]
+[uf 0 5 65278][uf 2 1]Koromaru is looking at[n]me with pleading eyes...[n][uf 1 1][e]
+[uf 0 5 65278][uf 2 1]He seems to want to go for a walk...[n][uf 1 1][e]
+
+[sel SEL_031_0_0 top]
+[uf 0 5 65278][uf 2 1]Take him for a walk[e]
+[uf 0 5 65278][uf 2 1]Let someone else do it[e]
+
+[sel SEL_032_0_0 top]
+[uf 0 5 65278][uf 2 1]Go together[e]
+[uf 0 5 65278][uf 2 1]Let someone else do it[e]
+
+[msg MND_033_0_0]
+[uf 0 5 65278][uf 2 1]Aigis can come with us tonight.[n][uf 1 1][e]
+
+[msg MND_034_0_0]
+[uf 0 5 65278][uf 2 1]Sanada can come with us tonight.[n][uf 1 1][e]
+
+[msg MND_035_0_0]
+[uf 0 5 65278][uf 2 1]Junpei can come with us tonight.[n][uf 1 1][e]
+
+[msg MND_036_0_0]
+[uf 0 5 65278][uf 2 1]Fuuka can come with us tonight.[n][uf 1 1][e]
+
+[msg MND_037_0_0]
+[uf 0 5 65278][uf 2 1]Mitsuru can come with us tonight.[n][uf 1 1][e]
+
+[msg MND_038_0_0]
+[uf 0 5 65278][uf 2 1]Aragaki can come with us tonight.[n][uf 1 1][e]
+
+[msg MND_039_0_0]
+[uf 0 5 65278][uf 2 1]Amada can come with us tonight.[n][uf 1 1][e]
+
+[msg MND_040_0_0]
+[uf 0 5 65278][uf 2 1]Yukari can come with us tonight.[n][uf 1 1][e]
+
+[msg MND_041_0_0]
+[uf 0 5 65278][uf 2 1]Everyone can come along[n]for a walk with us tonight.[n][uf 1 1][e]
+

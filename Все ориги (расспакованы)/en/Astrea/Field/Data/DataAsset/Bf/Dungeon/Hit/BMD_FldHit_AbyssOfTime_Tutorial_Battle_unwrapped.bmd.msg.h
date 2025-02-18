@@ -1,0 +1,21 @@
+// Decompiled by Atlus Script Tools (2017-2021) © TGE
+const int MSG_TUTO_BTL01_DISCOVERE         = 0;
+const int MSG_TUTO_BTL01_DISCOVERE_2       = 1;
+const int MSG_TUTO_BTL02_DISCOVERE         = 2;
+const int MSG_DISCOVERED_TBOX_00           = 3;
+const int MSG_DISCOVERED_TBOX_01           = 4;
+const int MSG_DISCOVERED_TBOX_02           = 5;
+const int MSG_NOT_GET_TBOX                 = 6;
+const int MSG_TUTO_BTL03_DISCOVERE         = 7;
+const int MSG_TUTO_BTL03_RUN_AWAY_         = 8;
+const int MSG_TUTO_BTL03_RUN_AWAY__2       = 9;
+const int MSG_TUTO_BTL04_DISCOVERE         = 10;
+const int MSG_TUTO_BTL04_RUN_AWAY_         = 11;
+const int MSG_TUTO_BTL04_RUN_AWAY__2       = 12;
+const int MSG_DISCOVERED_STAIRS_00         = 13;
+const int MSG_DISCOVERED_STAIRS_01         = 14;
+const int MSG_DISCOVERED_STAIRS_02         = 15;
+const int MSG_NOT_GET_MEDAL_TBOX           = 16;
+const int MSG_MEDAL_INFO                   = 17;
+const int MSG_DISCOVERED_RETDEV_00         = 18;
+const int MSG_DISCOVERED_RETDEV_01         = 19;

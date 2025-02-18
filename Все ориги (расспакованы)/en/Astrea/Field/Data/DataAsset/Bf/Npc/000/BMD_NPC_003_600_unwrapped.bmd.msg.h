@@ -1,0 +1,26 @@
+// Decompiled by Atlus Script Tools (2017-2021) © TGE
+const int MSG_018_0_0                      = 0;
+const int MSG_094_0_0                      = 1;
+const int MSG_019_0_0                      = 2;
+const int MSG_023_0_0                      = 3;
+const int MSG_024_0_0                      = 4;
+const int MSG_025_0_0                      = 5;
+const int MSG_026_0_0                      = 6;
+const int MSG_027_0_0                      = 7;
+const int MSG_028_0_0                      = 8;
+const int SEL_029_0_0                      = 9;
+const int MSG_030_0_0                      = 10;
+const int MSG_031_0_0                      = 11;
+const int MSG_031_5_0                      = 12;
+const int MSG_032_0_0                      = 13;
+const int MSG_042_0_0                      = 14;
+const int MSG_043_0_0                      = 15;
+const int MSG_053_0_0                      = 16;
+const int MND_054_0_0                      = 17;
+const int SEL_056_0_0                      = 18;
+const int MSG_055_0_0                      = 19;
+const int MSG_060_0_0                      = 20;
+const int MSG_067_0_0                      = 21;
+const int MSG_069_0_0                      = 22;
+const int MSG_068_0_0                      = 23;
+const int MSG_071_0_0                      = 24;

@@ -1,0 +1,20 @@
+// Decompiled by Atlus Script Tools (2017-2021) © TGE
+const int SEL_SEED_CHOOSE                  = 0;
+const int MND_SEED_GROWTH                  = 1;
+const int MND_SEED_THINK                   = 2;
+const int MND_SEED_PLANTED                 = 3;
+const int MND_SEED_HARVEST                 = 4;
+const int MND_SEED_DAY                     = 5;
+const int SEL_PLANT_CHOOSE                 = 6;
+const int MND_PLANT_AGAIN                  = 7;
+const int MND_SEED_TUTORIAL                = 8;
+const int MND_NO_PLANT                     = 9;
+const int MND_NO_PLANT_DORMITORY           = 10;
+const int MND_PLANT_ALREADY                = 11;
+const int MND_PLANT_MORE                   = 12;
+const int MND_PLANT_CAN_NOT                = 13;
+const int MND_028_0_0                      = 14;
+const int MND_031_0_0                      = 15;
+const int MND_034_0_0                      = 16;
+const int MND_PLANT_OK                     = 17;
+const int MND_PLANT_LAST_DAY               = 18;

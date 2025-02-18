@@ -1,0 +1,20 @@
+// Decompiled by Atlus Script Tools (2017-2021) © TGE
+const int MSG_DISCOVERD_MONAD_DOOR         = 0;
+const int MSG_DISCOVERD_MONAD_DOOR_2       = 1;
+const int MND_DISCOVERD_MONAD_DOOR         = 2;
+const int MSG_DISCOVERD_MONAD_DOOR_3       = 3;
+const int SEL_DISCOVERD_MONAD_DOOR         = 4;
+const int MSG_DISCOVERD_MONAD_DOOR_4       = 5;
+const int MSG_STOP_00                      = 6;
+const int SEL_STOP                         = 7;
+const int MSG_STOP_10                      = 8;
+const int MSG_DISCOVERD_STAIRS             = 9;
+const int MSG_DISCOVERD_DOOR               = 10;
+const int MSG_DISCOVERD_MONAD_DOOR_5       = 11;
+const int MSG_DISCOVERD_ENEMY_FUKA         = 12;
+const int MSG_REACTION_YUKARI_00           = 13;
+const int MSG_REACTION_JUNPEI_00           = 14;
+const int MSG_REACTION_SANADA_00           = 15;
+const int MSG_REACTION_MITSURU_00          = 16;
+const int MSG_DISCOVERD_ENEMY_FUKA_2       = 17;
+const int SYS_TUTORIAL                     = 18;

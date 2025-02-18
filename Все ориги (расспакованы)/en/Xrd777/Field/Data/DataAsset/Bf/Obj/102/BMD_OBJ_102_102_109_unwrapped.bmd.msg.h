@@ -1,0 +1,20 @@
+// Decompiled by Atlus Script Tools (2017-2021) © TGE
+const int MND_001_0_0                      = 0;
+const int MND_000_0_0                      = 1;
+const int SYS_TUTORIAL                     = 2;
+const int MND_013_0_0                      = 3;
+const int MND_014_0_0                      = 4;
+const int MND_003_0_0                      = 5;
+const int MND_004_0_0                      = 6;
+const int MND_UMIUSHI_WEB                  = 7;
+const int MND_REVENGE_SITE_WEB             = 8;
+const int MND_022_0_0                      = 9;
+const int MND_023_0_0                      = 10;
+const int MSG_MITSURU_0531                 = 11;
+const int MND_025_0_0                      = 12;
+const int MSG_MITSURU_0429                 = 13;
+const int MND_033_0_0                      = 14;
+const int MND_034_0_0                      = 15;
+const int MND_035_0_0                      = 16;
+const int MND_036_0_0                      = 17;
+const int SEL_037_0_0                      = 18;

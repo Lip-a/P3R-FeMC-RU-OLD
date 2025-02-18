@@ -1,0 +1,25 @@
+// Decompiled by Atlus Script Tools (2017-2021) © TGE
+const int MSG_HIGHRARE_DEFEAT_FUKA         = 0;
+const int MSG_DEFEAT_YUKARI_10             = 1;
+const int MSG_DEFEAT_JUNPEI_10             = 2;
+const int MSG_DEFEAT_SANADA_10             = 3;
+const int MSG_DEFEAT_MITSURU_10            = 4;
+const int MSG_DEFEAT_FUKA_10               = 5;
+const int MSG_DEFEAT_AEGIS_10              = 6;
+const int MSG_DEFEAT_AMADA_10              = 7;
+const int MSG_DEFEAT_KOROMARU_10           = 8;
+const int MSG_DEFEAT_ARAGAKI_10            = 9;
+const int MSG_DEFEAT_METIS_10              = 10;
+const int MSG_HIGHRARE_ESCAPE_FUKA         = 11;
+const int MSG_ESCAPE_YUKARI_10             = 12;
+const int MSG_ESCAPE_JUNPEI_10             = 13;
+const int MSG_ESCAPE_SANADA_10             = 14;
+const int MSG_ESCAPE_MITSURU_10            = 15;
+const int MSG_ESCAPE_FUKA_10               = 16;
+const int MSG_ESCAPE_AEGIS_10              = 17;
+const int MSG_ESCAPE_AMADA_10              = 18;
+const int MSG_ESCAPE_KOROMARU_10           = 19;
+const int MSG_ESCAPE_ARAGAKI_10            = 20;
+const int MSG_ESCAPE_METIS_10              = 21;
+const int MSG_HIGHRARE_ESCAPE_FUKA_2       = 22;
+const int MSG_HIGHRARE_END_FUKA_00         = 23;

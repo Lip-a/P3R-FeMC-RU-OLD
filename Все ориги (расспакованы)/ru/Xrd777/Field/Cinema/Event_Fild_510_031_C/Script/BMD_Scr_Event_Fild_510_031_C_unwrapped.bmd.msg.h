@@ -1,0 +1,23 @@
+// Decompiled by Atlus Script Tools (2017-2021) © TGE
+const int MSG_START_FUKA_00                = 0;
+const int MSG_START_FUKA_01                = 1;
+const int MSG_START_FUKA_02                = 2;
+const int MSG_BRANCH_FUKA_00               = 3;
+const int MSG_BRANCH_FUKA_01               = 4;
+const int MSG_BRANCH_FUKA_02               = 5;
+const int SEL_BRANCH_00                    = 6;
+const int SEL_BRANCH_01                    = 7;
+const int SEL_BRANCH_02                    = 8;
+const int MSG_BRANCH_YUKARI_10             = 9;
+const int MSG_BRANCH_JUNPEI_10             = 10;
+const int MSG_BRANCH_SANADA_10             = 11;
+const int MSG_BRANCH_MITSURU_10            = 12;
+const int MSG_BRANCH_FUKA_10               = 13;
+const int MSG_BRANCH_AEGIS_10              = 14;
+const int MSG_BRANCH_AMADA_10              = 15;
+const int MSG_BRANCH_KOROMARU_10           = 16;
+const int MSG_BRANCH_ARAGAKI_10            = 17;
+const int MSG_SUCCESS_FUKA_00              = 18;
+const int MSG_FAILURE_FUKA_00              = 19;
+const int MSG_TBOX_FUKA_00                 = 20;
+const int MSG_BATTLE_FUKA_00               = 21;

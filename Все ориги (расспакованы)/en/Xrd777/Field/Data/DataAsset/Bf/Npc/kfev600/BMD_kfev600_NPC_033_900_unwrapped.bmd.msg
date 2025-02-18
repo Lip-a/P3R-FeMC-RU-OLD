@@ -1,0 +1,36 @@
+[msg MSG_000_0_0 [Ken Amada]]
+[uf 0 5 65278][uf 2 1][uf 4 5 8 0 65535 65535 0 0][uf 3 1 1 0 4 1 0 0]Oh, [uf 4 1]-san.[n][uf 1 1][e]
+[uf 0 5 65278][uf 2 1][uf 4 5 8 0 65535 65535 0 0][uf 3 1 1 0 4 2 0 0]I'm glad I found you. It was kind of nerve-racking to come to the high school campus all by myself...[n][uf 1 1][e]
+[uf 0 5 65278][uf 2 1][uf 4 5 8 0 65535 65535 0 0][uf 3 1 1 0 4 3 0 0]Anyway, I'm here to drop off something Sanada-san forgot.[n][uf 1 1][e]
+[uf 0 5 65278][uf 2 1][uf 4 5 8 1 65535 65535 0 0][uf 3 1 1 0 4 4 0 0]He's usually so put together, but sometimes he can be just a little scatterbrained.[n][uf 1 1][e]
+
+[msg MSG_001_0_0 [Ken Amada]]
+[uf 0 5 65278][uf 2 1][uf 4 5 8 0 65535 65535 0 0][uf 3 1 1 0 4 5 0 0][uf 4 25 8]......[n][uf 1 1][e]
+[uf 0 5 65278][uf 2 1][uf 4 5 8 0 65535 65535 0 0][uf 3 1 1 0 4 6 0 0]Speaking of forgetfulness...[n][uf 1 1][e]
+[uf 0 5 65278][uf 2 1][uf 4 5 8 0 65535 65535 0 0][uf 3 1 1 0 4 7 0 0]Do you remember someone named Aragaki-san...? He was at the dorm for a little while.[n][uf 1 1][e]
+
+[msg MSG_002_0_0 [Ken Amada]]
+[uf 0 5 65278][uf 2 1][uf 4 5 8 0 65535 65535 0 0][uf 3 1 1 0 4 8 0 0]I didn't really talk with him all that much, but whenever he crosses my mind...[n][uf 1 1][e]
+[uf 0 5 65278][uf 2 1][uf 4 5 8 3 65535 65535 0 0][uf 3 1 1 0 4 9 0 0]...I feel this ache in my chest—and unbearably sad. It's as if I've forgotten something important.[n][uf 1 1][e]
+[uf 0 5 65278][uf 2 1][uf 4 5 8 3 65535 65535 0 0][uf 3 1 1 0 4 10 0 0]Though I'm not sure what...[n][uf 1 1][e]
+[uf 0 5 65278][uf 2 1][uf 4 5 8 3 65535 65535 0 0][uf 3 1 1 0 4 11 0 0]I get the feeling that there was something I had to do.[n][uf 1 1][e]
+[uf 0 5 65278][uf 2 1][uf 4 5 8 3 65535 65535 0 0][uf 3 1 1 0 4 12 0 0]I just... don't know what it is, or why I feel this way.[n][uf 1 1][e]
+
+[msg MSG_003_0_0 [Ken Amada]]
+[uf 0 5 65278][uf 2 1][uf 4 5 8 0 65535 65535 0 0][uf 3 1 1 0 4 14 0 0]Oh, um... Sorry about that. You're really easy to talk to, so I kept going on and on...[n][uf 1 1][e]
+[uf 0 5 65278][uf 2 1][uf 4 5 8 1 65535 65535 0 0][uf 3 1 1 0 4 15 0 0]I appreciate that you always listen to what I have to say though, [uf 4 1]-san.[n][uf 1 1][e]
+[uf 0 5 65278][uf 2 1][uf 4 5 8 1 65535 65535 0 0][uf 3 1 1 0 4 16 0 0]You even went with me to buy tea, and you don't treat me like I'm just a little kid...[n][uf 1 1][e]
+[uf 0 5 65278][uf 2 1][uf 4 5 8 1 65535 65535 0 0][uf 3 1 1 0 4 17 0 0]So, um... thanks for everything.[n][uf 1 1][e]
+
+[msg MSG_004_0_0 [Ken Amada]]
+[uf 0 5 65278][uf 2 1][uf 4 5 8 0 65535 65535 0 0][uf 3 1 1 0 4 18 0 0]Oh, um... Sorry about that. You're really easy to talk to, so I kept going on and on...[n][uf 1 1][e]
+[uf 0 5 65278][uf 2 1][uf 4 5 8 1 65535 65535 0 0][uf 3 1 1 0 4 19 0 0]I appreciate that you always listen to what I have to say though, [uf 4 1]-san.[n][uf 1 1][e]
+[uf 0 5 65278][uf 2 1][uf 4 5 8 1 65535 65535 0 0][uf 3 1 1 0 4 20 0 0]You even went to the movies with me, and you don't treat me like I'm just a little kid...[n][uf 1 1][e]
+[uf 0 5 65278][uf 2 1][uf 4 5 8 1 65535 65535 0 0][uf 3 1 1 0 4 21 0 0]So, um... thanks for everything.[n][uf 1 1][e]
+
+[msg MSG_005_0_0 [Ken Amada]]
+[uf 0 5 65278][uf 2 1][uf 4 5 8 0 65535 65535 0 0][uf 3 1 1 0 4 22 0 0]I'm still just a kid, aren't I? I wish there was a way for me to grow up more quickly...[n][uf 1 1][e]
+[uf 0 5 65278][uf 2 1][uf 4 5 8 3 65535 65535 0 0][uf 3 1 1 0 4 23 0 0]No matter how grown-up I try to act, people still end up protecting me.[n][uf 1 1][e]
+[uf 0 5 65278][uf 2 1][uf 4 5 8 3 65535 65535 0 0][uf 3 1 1 0 4 24 0 0]There's always someone sheltering me...[n][uf 1 1][e]
+[uf 0 5 65278][uf 2 1][uf 4 5 8 3 65535 65535 0 0][uf 3 1 1 0 4 25 0 0]I wonder if I'll ever be strong enough to protect someone else instead...[n][uf 1 1][e]
+

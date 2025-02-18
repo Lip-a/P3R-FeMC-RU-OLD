@@ -1,0 +1,27 @@
+// Decompiled by Atlus Script Tools (2017-2021) © TGE
+const int MSG_000_0_0                      = 0;
+const int MSG_EXIT_CONFIRM_01              = 1;
+const int MSG_EXIT_CONFIRM_02              = 2;
+const int MSG_EXIT_01                      = 3;
+const int MSG_EXIT_02                      = 4;
+const int SEL_002_0_0                      = 5;
+const int MSG_ANTQ_GREET_FIRST_01          = 6;
+const int MND_ANTQ_GREET_FIRST_02          = 7;
+const int MSG_ANTQ_GREET_FIRST_03          = 8;
+const int MSG_ANTQ_GREET_FIRST_04          = 9;
+const int MSG_ANTQ_GREET_FIRST_05          = 10;
+const int MSG_ANTQ_GREET_00                = 11;
+const int MSG_ANTQ_GREET_01                = 12;
+const int MSG_ANTQ_GREET_TALK_01           = 13;
+const int MSG_ANTQ_GREET_TALK_02           = 14;
+const int MSG_ANTQ_GREET_TALK_03           = 15;
+const int MSG_ANTQ_GREET_TALK_04           = 16;
+const int MSG_ANTQ_GREET_TALK_05           = 17;
+const int MSG_ANTQ_GREET_TALK_07           = 18;
+const int MSG_ANTQ_GREET_TALK_08           = 19;
+const int MSG_ANTQ_GREET_TALK_06           = 20;
+const int MSG_REQ_AOJIRU_ANTIQUE_0         = 21;
+const int MSG_ANTQ_INFO_BASEITEM_0         = 22;
+const int MSG_ANTQ_INFO_BASEITEM_0_2       = 23;
+const int MSG_ANTQ_INFO_BASEITEM_0_3       = 24;
+const int MSG_ANTQ_INFO_JEWELRY_SH         = 25;
