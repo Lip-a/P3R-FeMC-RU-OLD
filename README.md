@@ -2,7 +2,7 @@
 
 ![logo in Pink](img/readmelogo.png)
 
-[EN](README.md) | [RU](docs/README_Ru-RU.md)
+Language: [EN](README.md) | [RU](docs/README_Ru-RU.md)
 
 _ⓒAtlus ⓒSega All Rights reserved, this mod is not associated with Sega or Atlus, all rights reserved, read the full Readme before any contributions_
 
