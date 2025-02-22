@@ -1,54 +1,101 @@
-# Persona 3 Reload Mod Project: Femc Reloaded Project
+# Адаптация RU локализации для Persona 3 Reload: FeMC Mod
 
-![logo in Pink](img/readmelogo.png)
+Добро пожаловать в репозиторий адаптации русскоязычного текста для модификации **FeMC Mod** (Persona 3 Reload). Этот проект направлен на полную адаптацию локализации контента, связанного с женским протагонистом.
 
-Language: [EN](README.md) | [RU](docs/README_Ru-RU.md)
+## 📌 Прогресс адаптации
 
-_ⓒAtlus ⓒSega All Rights reserved, this mod is not associated with Sega or Atlus, all rights reserved, read the full Readme before any contributions_
+<table border="0">
+  <tr>
+    <th>Раздел адаптации</th>
+    <th>Подраздел</th>
+    <th>Статус</th>
+  </tr>
+  <tr>
+    <td rowspan="2">Сюжет</td>
+    <td>Диалоги</td>
+    <td>79%</td>
+  </tr>
+  <tr>
+    <td>Катсцены</td>
+    <td>0%</td>
+  </tr>
+  <tr>
+    <td rowspan="2">Доп. встречи</td>
+    <td>Соц. связи</td>
+    <td>???%</td>
+  </tr>
+  <tr>
+    <td>Команда</td>
+    <td>0%</td>
+  </tr>
+  <tr>
+    <td rowspan="2">Тартар</td>
+    <td>Диалоги</td>
+    <td>0%</td>
+  </tr>
+  <tr>
+    <td>Сражения</td>
+    <td>0%</td>
+  </tr>
+  <tr>
+    <td rowspan="5">Доп. события</td>
+    <td>Бархатная комната</td>
+    <td>0%</td>
+  </tr>
+  <tr>
+    <td>Взаимодействия</td>
+    <td>0%</td>
+  </tr>
+  <tr>
+    <td>Общение с NPC</td>
+    <td>0%</td>
+  </tr>
+  <tr>
+    <td>Прокачка</td>
+    <td>0%</td>
+  </tr>
+  <tr>
+    <td>Уроки/экзамены</td>
+    <td>0%</td>
+  </tr>
+  <tr>
+    <td rowspan="4">Дополнительно</td>
+    <td>Интерфейс</td>
+    <td>~15%</td>
+  </tr>
+  <tr>
+    <td>Словарь</td>
+    <td>0%</td>
+  </tr>
+  <tr>
+    <td>Меню Соц. связей</td>
+    <td>0%</td>
+  </tr>
+  <tr>
+    <td>Обучение</td>
+    <td>0%</td>
+  </tr>
+</table>
 
-## _"Femc True"_
-![Kotone in Pink](img/readmeimg.png)
+## 🔹 О проекте
 
-## Introduction
-<foo style="color:pink;">We're putting Kotone into P3R, that's about it. This mod is crafted for the PC version and is available as **english first**, all languages are welcome though!</foo>
+Этот проект нацелен на адаптацию текста с учетом особенностей мода, стилистики оригинала и удобочитаемости. 
 
-## Project Links
-- **Discord**: [Join our community](https://discord.gg/yxtDmX7qXd)
-- **Persona Modding Tutorial**: [Get started with modding](https://gamebanana.com/tuts/17156)
-- **Raw Files Repo**: [Raw files are stored here](https://github.com/MadMax1960/Femc-Reloaded-Raw-Files)
+## 👥 Кто участвует?
 
-## How to Contribute
-Pretty much any contribution is welcome! You can check the wiki to learn how to submit your own pull request with contributions! Or join the discord and ask there!
+- **Кураторство; Перевод/Адаптация; Редактирование; Тестирование**: Glopente, Max-gg 
+- Любой, кто желает нам помочь ( •̀ ω •́ )✧
 
-## Leadership
-- **Lead/Director**: A Mudkip (@MadMax1960), orchestrating it all, 3D Lead.
-- **Audio Lead**: Kindred
-- **2D Lead**: Esa Blythe/CatBoyRonaldReagan
-- **Event Lead**: Ciel-Bell
-- **Major Code Contributor**: Rirurin
-- **Major 3d Contributor**: Ray Cooper
-- **Task Manager**: Fernando Holguin (@Fernhw), Tasks management. 
+## 🛠 Как помочь?
 
-<br/>
+1. **Перевод и адаптация** – Если у вас есть опыт в переводе или просто желание помочь, свяжитесь с нами.
+2. **Редактура** – Проверка адаптированного текста на ошибки и соответствие.
+3. **Тестирование** – Проверка адаптации в игре, поиск ошибок и проблем с адаптацией.
 
-## Copyright TLDR; 
+## 📥 Установка (в будущем)
 
-This project is under a license that lets you freely yoink and edit assets at will as long as you credit this page, don't sell your edited/yoinked assets, and publish them under this same license. There is an exception when it comes to monetizing, if you are an artist contributing art, the license allows for selling *your* art, but you have to be ok with other people being able to edit your art for use in other mods or this one. No one can sell your contributed art, but you may sell it yourself. 
+Инструкция по установке появится, когда проект будет готов к тестированию.
 
-## IMPORTANT: Copyright and License
+## 📢 Контакты и обсуждение
 
-This project is a fanmade mod (modification) created as a homage to the Persona series. Some things to note include:
-
--**Not for Sale**: This mod does not, and will never, go up on sale. It’s just fans making something for fellow fans out of pure love for the original game, Persona 3, and its developers. Nothing monetary is being sought from it.
-
--**License**: This project and all contents thereof are licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (BY-NC-SA 4.0). This means:
-
-- **Attribution (BY)**: You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
-
-- **NonCommercial (NC)**: You may not utilize this material for commercial purposes.
-
-- **ShareAlike (SA)**: If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original ones.
-
--**Respect for Original Copyright Holders**: Any rights involving characters such as logos or trademarks associated with Atlus’ franchise known as Persona remain their property or that of other respective copyright holders whether they are Sega or Atlus themselves.
-
-This mod is a labor of love, created to celebrate the Persona series and share our collective creativity within the fan community, not to infringe on the rights of the original creators.
+Обсуждение ведется в [чате адаптации Ру локализации мода](https://discord.com/channels/1203970562729316352/1209328195631972383). Присоединяйтесь!
